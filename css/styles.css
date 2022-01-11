@@ -1,0 +1,24 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+/* 
+.widthClass {
+  width:200px;
+} */
+
+.dark-background {
+  background-color: rgb(39, 39, 39);
+  color: white;
+}
+
+#light {
+  display: none;
+}
